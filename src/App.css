@@ -1,1 +1,14 @@
 /* add your styles here */
+.heading{
+    text-align: center;
+}
+.App{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.App img{
+    width: 100%;
+}
